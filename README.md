@@ -18,7 +18,7 @@ This repository contains a backup of the NewfoundFitness PostgreSQL database. Th
 
 ## Backup File
 
-- **Filename:** `newfoundfitness_db.tar`
+- **Filename:** `newfoundfitness_db_backup.tar`
 - **Format:** `tar`
 
 ## Contents
